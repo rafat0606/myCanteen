@@ -1,0 +1,54 @@
+body {
+				background-repeat: no-repeat; /* Do not repeat the image */
+				width:100%;
+				height:100%;
+				/*background-image: url("images/autumn-2902507_1920.jpg");*/
+          min-height: 100vh;
+      flex-direction: column;
+  /* background: #fff; */
+	display:flex;
+
+}
+.container {
+
+  /* background:white; */
+  padding: 20px 25px;
+
+}
+
+.gender-male,.gender-female {
+  display: inline-block;
+}
+.gender-female {
+  margin-left: 35px;
+}
+radio:required {
+  border-color: red;
+}
+.container {
+  animation: showUp 0.5s cubic-bezier(0.18, 1.3, 1, 1) forwards;
+}
+
+@keyframes showUp {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.row {margin-bottom: 10px;}
+
+.ngl {
+  position: absolute;
+  top: -20px;
+  right: -20px;
+}
+  
+        
+         main {
+      flex: 1 0 auto;
+    }
+        
+      
+ 

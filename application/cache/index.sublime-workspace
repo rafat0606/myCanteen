@@ -1,0 +1,468 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vi",
+				"view"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"H",
+				"HomeModel"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"User",
+				"UserRegistration"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"s",
+				"sql"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"real",
+				"real_escape_string"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"sys",
+				"system_path"
+			],
+			[
+				"da",
+				"database"
+			],
+			[
+				"pus",
+				"pushProductionBody"
+			],
+			[
+				"p",
+				"popNT"
+			],
+			[
+				"fi",
+				"final"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"i",
+				"iTop"
+			],
+			[
+				"st",
+				"sTop"
+			],
+			[
+				"top",
+				"iTop"
+			],
+			[
+				"pr",
+				"productions"
+			],
+			[
+				"glut",
+				"glutInit"
+			],
+			[
+				"arg",
+				"argc"
+			],
+			[
+				"de",
+				"decrypted"
+			],
+			[
+				"ms",
+				"message"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"p_",
+				"p_sz_rm"
+			],
+			[
+				"b",
+				"b_size"
+			],
+			[
+				"o",
+				"o_rate"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"lru",
+				"lruPageReplacement"
+			],
+			[
+				"fra",
+				"frame"
+			],
+			[
+				"page",
+				"pageFaults"
+			],
+			[
+				"pag",
+				"pageFaults"
+			],
+			[
+				"pager",
+				"pagePresentInFrames"
+			],
+			[
+				"refe",
+				"referenceString"
+			],
+			[
+				"ref",
+				"referenceString"
+			],
+			[
+				"fr",
+				"frame"
+			],
+			[
+				"str",
+				"string.h\tstandard header"
+			],
+			[
+				"int",
+				"intermediate"
+			],
+			[
+				"coun",
+				"count1"
+			],
+			[
+				"cou",
+				"count1"
+			],
+			[
+				"dete",
+				"Detected"
+			],
+			[
+				"N",
+				"N-1"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"c",
+				"cNeg"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"ke",
+				"keys"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"p1",
+				"p1_dict"
+			],
+			[
+				"p2",
+				"p2_dict"
+			],
+			[
+				"sum",
+				"sumprimes"
+			],
+			[
+				"ma",
+				"matched"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/opt/lampp/htdocs/CanteenApp/application/config/config.php",
+		"/opt/lampp/htdocs/CanteenApp/application/controllers/HomeController.php",
+		"/opt/lampp/htdocs/CanteenApp/application/views/HomeView.php",
+		"/opt/lampp/htdocs/CanteenApp/application/models/HomeModel.php",
+		"/opt/lampp/htdocs/CanteenApp/application/config/database.php",
+		"/opt/lampp/htdocs/CanteenApp/application/config/autoload.php",
+		"/opt/lampp/htdocs/CanteenApp/index.php",
+		"/opt/lampp/htdocs/test/application/config/routes.php",
+		"/opt/lampp/htdocs/test/application/controllers/HomeController.php",
+		"/opt/lampp/htdocs/CanteenApp/application/config/routes.php",
+		"/opt/lampp/htdocs/test/index.php",
+		"/opt/lampp/htdocs/registration/canteenHome.php",
+		"/opt/lampp/htdocs/registration/index.php",
+		"/opt/lampp/htdocs/registration/login.php",
+		"/opt/lampp/htdocs/registration/errors.php",
+		"/opt/lampp/htdocs/registration/server.php",
+		"/opt/lampp/htdocs/registration/style.css",
+		"/opt/lampp/htdocs/registration/register.php",
+		"/home/rafat/Desktop/signup.php",
+		"/home/rafat/Desktop/form.css",
+		"/home/rafat/Desktop/form.html",
+		"/opt/lampp/htdocs/signup.php",
+		"/opt/lampp/htdocs/form.html",
+		"/home/rafat/Documents/python ml/hello.py",
+		"/home/rafat/Documents/graphics/liang.c",
+		"/home/rafat/Documents/graphics/house.c",
+		"/home/rafat/Documents/graphics/teapot.c",
+		"/opt/lampp/htdocs/CodeIgniter-3.1.9/system/.htaccess",
+		"/opt/lampp/htdocs/CodeIgniter-3.1.9/application/config/autoload.php",
+		"/opt/lampp/htdocs/CodeIgniter-3.1.9/application/models/Queries1.php",
+		"/opt/lampp/htdocs/CodeIgniter-3.1.9/application/controllers/Welcome.php",
+		"/opt/lampp/htdocs/CodeIgniter-3.1.9/application/config/database.php",
+		"/opt/lampp/htdocs/mac_thing",
+		"/opt/lampp/htdocs/testing/index.php",
+		"/opt/lampp/htdocs/testing/system/.htaccess",
+		"/opt/lampp/htdocs/testing/application/models/Queries1.php",
+		"/opt/lampp/htdocs/testing/application/config/database.php",
+		"/opt/lampp/htdocs/testing/application/config/config.php",
+		"/opt/lampp/htdocs/testing/application/views/welcome_message.php",
+		"/opt/lampp/htdocs/testing/upload/data.txt",
+		"/opt/lampp/htdocs/testing/upload/data.php",
+		"/home/rafat/Documents/graphics/start.c",
+		"/home/rafat/Documents/graphics/lex.cpp",
+		"/home/rafat/Documents/graphics/lex.c",
+		"/home/rafat/Documents/graphics/lex.java",
+		"/home/rafat/Documents/graphics/try1.c",
+		"/home/rafat/Documents/graphics/fileopen",
+		"/home/rafat/Documents/graphics/copy1.c",
+		"/home/rafat/Documents/graphics/input.c",
+		"/home/rafat/Documents/graphics/lexicalAnalyser",
+		"/home/rafat/Documents/Bankers.c",
+		"/home/rafat/Documents/zombie.c",
+		"/home/rafat/Documents/file.c",
+		"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C008%5D/Internal storage/documents/share/page.pdf",
+		"/home/rafat/Documents/rsaprac.c",
+		"/home/rafat/Documents/FLAT/flat4.l",
+		"/home/rafat/Documents/distance.c",
+		"/home/rafat/Documents/leaky.cpp",
+		"/home/rafat/Documents/leakypeaky.c",
+		"/home/rafat/Documents/crc.c",
+		"/home/rafat/Documents/FLAT/oneA.c",
+		"/home/rafat/Documents/FLAT/flat2.l",
+		"/home/rafat/Documents/FLAT/flat3.c",
+		"/home/rafat/Documents/FLAT/flat3.l",
+		"/home/rafat/Documents/identifier.l",
+		"/home/rafat/Documents/python/polynomial.py",
+		"/home/rafat/Documents/python/quiz.py",
+		"/home/rafat/Documents/python/transpose.py",
+		"/home/rafat/Documents/python/valley.py",
+		"/home/rafat/Documents/python/descending.py",
+		"/home/rafat/Documents/python/sumprimes.py",
+		"/home/rafat/Documents/python/match.py",
+		"/home/rafat/Documents/python/reverse.py",
+		"/home/rafat/Documents/python/gcd.py",
+		"/home/rafat/Documents/python/gcd2.py",
+		"/home/rafat/Documents/python/new.py"
+	],
+	"find":
+	{
+		"height": 31.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.2
+	},
+	"input":
+	{
+		"height": 47.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 57.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
